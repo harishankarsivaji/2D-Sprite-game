@@ -1,0 +1,21 @@
+﻿Build started 4/10/2018 6:41:06 PM.
+     1>Project "E:\Lab Comp\graphics\Space Invader\OpenGL_Game\OpenGL_Game\OpenGL_Game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OpenGL_Game.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\OpenGL_Game.unsuccessfulbuild".
+         Touching "Debug\OpenGL_Game.lastbuildstate".
+     1>Done Building Project "E:\Lab Comp\graphics\Space Invader\OpenGL_Game\OpenGL_Game\OpenGL_Game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26
